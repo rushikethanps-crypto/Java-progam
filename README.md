@@ -1,2 +1,27 @@
 # Java-progam
 Java program is oops concepts program
+
+
+class student
+{
+  int rollno;
+  string name;
+  int marks;
+}
+ class student
+{ 
+ public static void main(string[])
+{
+ student s=new student();
+ s.roll no=101;
+ s.name="rushi"
+ s.marks=75;
+ s.display();
+}
+}
+ void display[]
+{
+ system.out.println("Roll no:"+roll no);
+ system.out.println("Name:"+name);
+ system.out.println("Marks:"+marks);
+}
